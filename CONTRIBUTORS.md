@@ -1,1 +1,3 @@
-Courtney Sprouse
+#Contributors
+- JC S
+- Courtney Sprouse
